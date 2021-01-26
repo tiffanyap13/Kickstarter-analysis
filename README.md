@@ -3,7 +3,7 @@
 - Findings show that certain times of the year prove to be more successful when crowdfunding.
 - Analysis of fundraising goals and pledges reveals that there is a certain level of ask per person that deems to be most successful.
 
-![Launch Month](docs/Outcomes Based on Launch Date.png)
+![Launch Month](docs/LaunchDate.png)
 
 ![Pledge Anlaysis](docs/Pledge.png)
 
